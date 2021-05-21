@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>入力画面</h1>
-<p>次の画面にデータを渡します。</p>
+<p>次の画面にデータを渡します! </p>
 
 <form action="confirm.php" method="POST">
 <label>お名前</label>
